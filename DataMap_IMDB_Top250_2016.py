@@ -6,7 +6,7 @@ from tqdm import tqdm
 sys.stdout = open('IMDB_Top_250.txt','w')
 opener = urllib2.build_opener()
 opener.addheaders=[('User-agent','Mozilla/5.0')]
-url = "file:///F:/Coding/Data_Science/IMDB_Scrape_2016/IMDB_Top_250.html"
+url = "http://www.imdb.com/chart/top"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl)
 
