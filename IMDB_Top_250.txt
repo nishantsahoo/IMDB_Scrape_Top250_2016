@@ -24,39 +24,39 @@ IMDB Movie List Top 250:
 23. It's a Wonderful Life -  8.6
 24. The Usual Suspects -  8.6
 25. La vita  bella -  8.6
-26. La La Land -  8.6
-27. Lon -  8.5
-28. Sen to Chihiro no kamikakushi -  8.5
-29. Saving Private Ryan -  8.5
-30. Once Upon a Time in the West -  8.5
-31. American History X -  8.5
-32. Interstellar -  8.5
-33. Casablanca -  8.5
+26. Lon -  8.5
+27. Sen to Chihiro no kamikakushi -  8.5
+28. Saving Private Ryan -  8.5
+29. Once Upon a Time in the West -  8.5
+30. American History X -  8.5
+31. Interstellar -  8.5
+32. Casablanca -  8.5
+33. City Lights -  8.5
 34. Psycho -  8.5
-35. City Lights -  8.5
-36. The Green Mile -  8.5
-37. Raiders of the Lost Ark -  8.5
-38. The Intouchables -  8.5
-39. Modern Times -  8.5
-40. Rear Window -  8.5
-41. The Pianist -  8.5
-42. The Departed -  8.5
-43. Terminator 2: Judgment Day -  8.5
-44. Back to the Future -  8.5
-45. Whiplash -  8.5
-46. Gladiator -  8.5
-47. Memento -  8.5
-48. Apocalypse Now -  8.5
-49. The Prestige -  8.5
-50. The Lion King -  8.5
+35. The Green Mile -  8.5
+36. The Intouchables -  8.5
+37. Modern Times -  8.5
+38. Raiders of the Lost Ark -  8.5
+39. Rear Window -  8.5
+40. The Pianist -  8.5
+41. The Departed -  8.5
+42. Terminator 2: Judgment Day -  8.5
+43. Back to the Future -  8.5
+44. Whiplash -  8.5
+45. Gladiator -  8.5
+46. Memento -  8.5
+47. Apocalypse Now -  8.5
+48. The Prestige -  8.5
+49. The Lion King -  8.5
+50. Logan -  8.4
 51. Alien -  8.4
 52. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb -  8.4
 53. Sunset Blvd. -  8.4
 54. The Great Dictator -  8.4
-55. The Lives of Others -  8.4
-56. Nuovo Cinema Paradiso -  8.4
-57. Paths of Glory -  8.4
-58. Hotaru no haka -  8.4
+55. Nuovo Cinema Paradiso -  8.4
+56. The Lives of Others -  8.4
+57. Hotaru no haka -  8.4
+58. Paths of Glory -  8.4
 59. Django Unchained -  8.4
 60. The Shining -  8.4
 61. WALLE -  8.4
@@ -65,53 +65,53 @@ IMDB Movie List Top 250:
 64. Mononoke-hime -  8.4
 65. Aliens -  8.4
 66. Oldeuboi -  8.4
-67. Once Upon a Time in America -  8.4
-68. Citizen Kane -  8.3
-69. Das Boot -  8.3
-70. Witness for the Prosecution -  8.3
-71. North by Northwest -  8.3
-72. Vertigo -  8.3
-73. Star Wars: Episode VI - Return of the Jedi -  8.3
-74. Reservoir Dogs -  8.3
-75. M -  8.3
+67. La La Land -  8.4
+68. Once Upon a Time in America -  8.4
+69. Witness for the Prosecution -  8.3
+70. Das Boot -  8.3
+71. Citizen Kane -  8.3
+72. North by Northwest -  8.3
+73. Vertigo -  8.3
+74. Star Wars: Episode VI - Return of the Jedi -  8.3
+75. Reservoir Dogs -  8.3
 76. Braveheart -  8.3
-77. Amlie -  8.3
+77. M -  8.3
 78. Requiem for a Dream -  8.3
-79. A Clockwork Orange -  8.3
-80. Taxi Driver -  8.3
-81. Lawrence of Arabia -  8.3
-82. Taare Zameen Par -  8.3
-83. Double Indemnity -  8.3
-84. To Kill a Mockingbird -  8.3
+79. Amlie -  8.3
+80. A Clockwork Orange -  8.3
+81. Taare Zameen Par -  8.3
+82. Taxi Driver -  8.3
+83. Lawrence of Arabia -  8.3
+84. Double Indemnity -  8.3
 85. Eternal Sunshine of the Spotless Mind -  8.3
-86. Toy Story 3 -  8.3
+86. To Kill a Mockingbird -  8.3
 87. Amadeus -  8.3
-88. Babam ve Oglum -  8.3
+88. Toy Story 3 -  8.3
 89. Full Metal Jacket -  8.3
-90. The Sting -  8.3
-91. 2001: A Space Odyssey -  8.3
-92. Singin' in the Rain -  8.3
-93. Ladri di biciclette -  8.3
+90. Dangal -  8.3
+91. The Sting -  8.3
+92. 2001: A Space Odyssey -  8.3
+93. Singin' in the Rain -  8.3
 94. Toy Story -  8.3
-95. Dangal -  8.3
-96. Hacksaw Ridge -  8.3
-97. Inglourious Basterds -  8.3
-98. Snatch -  8.3
-99. The Kid -  8.3
+95. Ladri di biciclette -  8.3
+96. Babam ve Oglum -  8.3
+97. The Kid -  8.3
+98. Inglourious Basterds -  8.3
+99. Snatch -  8.3
 100. Monty Python and the Holy Grail -  8.3
-101. L.A. Confidential -  8.3
-102. 3 Idiots -  8.3
+101. 3 Idiots -  8.3
+102. L.A. Confidential -  8.3
 103. Per qualche dollaro in pi -  8.3
 104. Scarface -  8.3
-105. Rashmon -  8.3
+105. Jagten -  8.3
 106. The Apartment -  8.2
-107. Jagten -  8.2
-108. Good Will Hunting -  8.2
-109. Indiana Jones and the Last Crusade -  8.2
-110. Jodaeiye Nader az Simin -  8.2
+107. Good Will Hunting -  8.2
+108. Rashmon -  8.2
+109. Jodaeiye Nader az Simin -  8.2
+110. Indiana Jones and the Last Crusade -  8.2
 111. Metropolis -  8.2
-112. Yjinb -  8.2
-113. All About Eve -  8.2
+112. All About Eve -  8.2
+113. Yjinb -  8.2
 114. Batman Begins -  8.2
 115. Up -  8.2
 116. Some Like It Hot -  8.2
@@ -119,132 +119,132 @@ IMDB Movie List Top 250:
 118. Unforgiven -  8.2
 119. Der Untergang -  8.2
 120. Raging Bull -  8.2
-121. The Third Man -  8.2
-122. Die Hard -  8.2
+121. Die Hard -  8.2
+122. The Third Man -  8.2
 123. Bacheha-Ye aseman -  8.2
-124. The Great Escape -  8.2
-125. Heat -  8.2
+124. Heat -  8.2
+125. The Great Escape -  8.2
 126. Chinatown -  8.2
-127. Inside Out -  8.2
+127. Andrei Rublev -  8.2
 128. Pan's Labyrinth -  8.2
 129. Ikiru -  8.2
-130. Tonari no Totoro -  8.2
-131. On the Waterfront -  8.2
-132. Room -  8.2
-133. Ran -  8.2
-134. The Gold Rush -  8.2
-135. El secreto de sus ojos -  8.2
-136. The Bridge on the River Kwai -  8.2
-137. Blade Runner -  8.2
-138. Mr. Smith Goes to Washington -  8.2
-139. Det sjunde inseglet -  8.2
-140. Hauru no ugoku shiro -  8.2
-141. Lock, Stock and Two Smoking Barrels -  8.2
-142. Arrival -  8.2
-143. Judgment at Nuremberg -  8.2
-144. Casino -  8.2
-145. Eskiya -  8.2
-146. Incendies -  8.2
-147. A Beautiful Mind -  8.2
-148. A Wednesday -  8.2
-149. The General -  8.2
-150. Smultronstllet -  8.2
-151. The Elephant Man -  8.2
-152. V for Vendetta -  8.1
-153. Warrior -  8.1
-154. The Wolf of Wall Street -  8.1
+130. Inside Out -  8.2
+131. Tonari no Totoro -  8.2
+132. Ran -  8.2
+133. On the Waterfront -  8.2
+134. Room -  8.2
+135. The Gold Rush -  8.2
+136. El secreto de sus ojos -  8.2
+137. The Bridge on the River Kwai -  8.2
+138. Blade Runner -  8.2
+139. Hauru no ugoku shiro -  8.2
+140. Mr. Smith Goes to Washington -  8.2
+141. Det sjunde inseglet -  8.2
+142. Lock, Stock and Two Smoking Barrels -  8.2
+143. Incendies -  8.2
+144. Judgment at Nuremberg -  8.2
+145. Casino -  8.2
+146. A Beautiful Mind -  8.2
+147. Hacksaw Ridge -  8.2
+148. The Elephant Man -  8.1
+149. Smultronstllet -  8.1
+150. V for Vendetta -  8.1
+151. Eskiya -  8.1
+152. The General -  8.1
+153. The Wolf of Wall Street -  8.1
+154. Warrior -  8.1
 155. Sunrise: A Song of Two Humans -  8.1
-156. La passion de Jeanne d'Arc -  8.1
-157. Gran Torino -  8.1
-158. Rang De Basanti -  8.1
-159. Trainspotting -  8.1
-160. Dial M for Murder -  8.1
-161. The Big Lebowski -  8.1
-162. Tky monogatari -  8.1
-163. The Deer Hunter -  8.1
-164. Gone with the Wind -  8.1
-165. Fargo -  8.1
-166. Finding Nemo -  8.1
-167. Hera Pheri -  8.1
-168. Andaz Apna Apna -  8.1
-169. The Sixth Sense -  8.1
-170. The Thing -  8.1
+156. A Wednesday -  8.1
+157. Trainspotting -  8.1
+158. Gran Torino -  8.1
+159. Dial M for Murder -  8.1
+160. The Big Lebowski -  8.1
+161. The Deer Hunter -  8.1
+162. Rang De Basanti -  8.1
+163. La passion de Jeanne d'Arc -  8.1
+164. Fargo -  8.1
+165. Gone with the Wind -  8.1
+166. Tky monogatari -  8.1
+167. Finding Nemo -  8.1
+168. The Sixth Sense -  8.1
+169. The Thing -  8.1
+170. No Country for Old Men -  8.1
 171. Cool Hand Luke -  8.1
 172. Rebecca -  8.1
-173. No Country for Old Men -  8.1
-174. How to Train Your Dragon -  8.1
-175. Munna Bhai M.B.B.S. -  8.1
-176. Sholay -  8.1
-177. Kill Bill: Vol. 1 -  8.1
-178. Into the Wild -  8.1
-179. Mary and Max -  8.1
-180. Gone Girl -  8.1
-181. There Will Be Blood -  8.1
-182. Idi i smotri -  8.1
-183. It Happened One Night -  8.1
-184. Life of Brian -  8.1
-185. Rush -  8.1
-186. Hotel Rwanda -  8.1
-187. Platoon -  8.1
-188. Shutter Island -  8.1
-189. Network -  8.1
+173. How to Train Your Dragon -  8.1
+174. Kill Bill: Vol. 1 -  8.1
+175. There Will Be Blood -  8.1
+176. Into the Wild -  8.1
+177. Mary and Max -  8.1
+178. Gone Girl -  8.1
+179. Idi i smotri -  8.1
+180. Life of Brian -  8.1
+181. It Happened One Night -  8.1
+182. Munna Bhai M.B.B.S. -  8.1
+183. Shutter Island -  8.1
+184. Platoon -  8.1
+185. Hotel Rwanda -  8.1
+186. Rush -  8.1
+187. Network -  8.1
+188. Relatos salvajes -  8.1
+189. Sholay -  8.1
 190. Le salaire de la peur -  8.1
-191. Star Wars: Episode VII - The Force Awakens -  8.1
+191. Hera Pheri -  8.1
 192. Stand by Me -  8.1
 193. In the Name of the Father -  8.1
 194. Spotlight -  8.1
-195. Relatos salvajes -  8.1
-196. Le notti di Cabiria -  8.1
-197. Butch Cassidy and the Sundance Kid -  8.1
-198. Les quatre cents coups -  8.1
-199. Mad Max: Fury Road -  8.1
-200. The Maltese Falcon -  8.1
-201. 12 Years a Slave -  8.1
-202. Ben-Hur -  8.1
-203. The Grand Budapest Hotel -  8.1
-204. Persona -  8.1
-205. Million Dollar Baby -  8.1
-206. Amores perros -  8.1
-207. Jurassic Park -  8.1
-208. The Princess Bride -  8.1
-209. Hachi: A Dog's Tale -  8.1
+195. Les quatre cents coups -  8.1
+196. Mad Max: Fury Road -  8.1
+197. 12 Years a Slave -  8.1
+198. Butch Cassidy and the Sundance Kid -  8.1
+199. The Grand Budapest Hotel -  8.1
+200. Ben-Hur -  8.1
+201. Persona -  8.1
+202. Million Dollar Baby -  8.1
+203. The Maltese Falcon -  8.1
+204. Star Wars: Episode VII - The Force Awakens -  8.1
+205. Amores perros -  8.1
+206. Andaz Apna Apna -  8.1
+207. Le notti di Cabiria -  8.1
+208. Jurassic Park -  8.1
+209. The Princess Bride -  8.1
 210. Salinui chueok -  8.1
-211. Drishyam -  8.1
+211. Hachi: A Dog's Tale -  8.1
 212. Stalker -  8.1
 213. Kaze no tani no Naushika -  8.1
-214. The Truman Show -  8.0
-215. The Grapes of Wrath -  8.0
-216. Before Sunrise -  8.0
+214. The Truman Show -  8.1
+215. Before Sunrise -  8.0
+216. The Grapes of Wrath -  8.0
 217. Touch of Evil -  8.0
 218. Annie Hall -  8.0
-219. The Message -  8.0
-220. Rocky -  8.0
+219. Rocky -  8.0
+220. Harry Potter and the Deathly Hallows: Part 2 -  8.0
 221. Gandhi -  8.0
-222. Harry Potter and the Deathly Hallows: Part 2 -  8.0
-223. Les diaboliques -  8.0
+222. Les diaboliques -  8.0
+223. Donnie Darko -  8.0
 224. The Bourne Ultimatum -  8.0
-225. Donnie Darko -  8.0
+225. Prisoners -  8.0
 226. Monsters, Inc. -  8.0
-227. Prisoners -  8.0
-228. 8 -  8.0
-229. The Terminator -  8.0
+227. Catch Me If You Can -  8.0
+228. The Terminator -  8.0
+229. 8 -  8.0
 230. The Wizard of Oz -  8.0
 231. Groundhog Day -  8.0
-232. Catch Me If You Can -  8.0
-233. Zootopia -  8.0
-234. Twelve Monkeys -  8.0
-235. La haine -  8.0
-236. Barry Lyndon -  8.0
-237. Jaws -  8.0
-238. Udaan -  8.0
+232. Twelve Monkeys -  8.0
+233. La haine -  8.0
+234. Drishyam -  8.0
+235. Barry Lyndon -  8.0
+236. Jaws -  8.0
+237. Mou gaan dou -  8.0
+238. The Message -  8.0
 239. The Best Years of Our Lives -  8.0
-240. Mou gaan dou -  8.0
-241. Strangers on a Train -  8.0
-242. La battaglia di Algeri -  8.0
-243. Dog Day Afternoon -  8.0
-244. Sin City -  8.0
-245. Kind Hearts and Coronets -  8.0
-246. The Help -  8.0
-247. PK -  8.0
-248. The Imitation Game -  8.0
-249. Pirates of the Caribbean: The Curse of the Black Pearl -  8.0
+240. Zootopia -  8.0
+241. La battaglia di Algeri -  8.0
+242. Dog Day Afternoon -  8.0
+243. The Help -  8.0
+244. Gangs of Wasseypur -  8.0
+245. Strangers on a Train -  8.0
+246. Pirates of the Caribbean: The Curse of the Black Pearl -  8.0
+247. Song of the Sea -  8.0
+248. Lagaan: Once Upon a Time in India -  8.0
+249. Sin City -  8.0
